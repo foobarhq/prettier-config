@@ -1,0 +1,13 @@
+{
+  "name": "@foobarhq/prettier-config",
+  "version": "1.0.0",
+  "description": "FoobarHQ prettier config",
+  "main": "index.js",
+  "author": "FoobarHQ team",
+  "license": "MIT",
+  "type": "commonjs",
+  "scripts": {
+    "build": "echo 'Nothing to build'",
+    "test": "echo 'Nothing to test'"
+  }
+}
