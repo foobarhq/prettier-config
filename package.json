@@ -9,5 +9,13 @@
   "scripts": {
     "build": "echo 'Nothing to build'",
     "test": "echo 'Nothing to test'"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foobarhq/prettier-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/foobarhq/prettier-config/issues"
+  },
+  "homepage": "https://github.com/foobarhq/prettier-config#readme"
 }
